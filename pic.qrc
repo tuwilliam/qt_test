@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>raspberry.bmp</file>
+        <file>leo.ico</file>
+        <file>onepiece.jpg</file>
+        <file>stereo.png</file>
+    </qresource>
+</RCC>

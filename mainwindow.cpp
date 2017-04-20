@@ -25,6 +25,13 @@ QImage Mat2QImage(const cv::Mat& mat)
         }
         return image;
     }
+
+
+
+
+
+
+
     // 8-bits unsigned, NO. OF CHANNELS = 3
     else if(mat.type() == CV_8UC3)
     {
